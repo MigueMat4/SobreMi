@@ -7,3 +7,4 @@
 * Escuchar música
 * Programar
 * Jugar videojuegos
+* Caminar por senderos
